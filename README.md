@@ -8,6 +8,18 @@ The original PSD is included and was provided by [Sergey Melnik](https://youtu.b
 
 https://youtu.be/e0IW1IbxjU4
 
+Followed along with the book Full Stack Web Development by Riaz Ahmed and built the E-Commerce Website project for ABC Global Consulting Inc.
+Technologies: PHP with MySQL database, HTML, CSS, Javascript
+
+Member View of ABC Global, [Click Here](https://youtu.be/e0IW1IbxjU4)
+
+Admin View of ABC Global, [Click Here](https://youtu.be/GI_5F_2waog)
+
+Research on the relationship between the occurrence of crime and the housing price in different areas of Queens
+Technologies: numpy, pandas, sklearn, seaborn
+
+Crimes and Queens Housing Price, [Click Here](https://arenispro.github.io/queenshousingprice/)
+
 This project was developed with HTML5, Sass, jQuery, and Hammer.js.
 
 Performance basics are covered: assets are minified into single CSS and JS files, and the images are optimized.
