@@ -6,6 +6,8 @@ Global is a modern and sleek website template crafted for professionals in the c
 
 The original PSD is included and was provided by [Sergey Melnik](https://youtu.be/e0IW1IbxjU4).
 
+https://youtu.be/e0IW1IbxjU4
+
 This project was developed with HTML5, Sass, jQuery, and Hammer.js.
 
 Performance basics are covered: assets are minified into single CSS and JS files, and the images are optimized.
